@@ -1,8 +1,8 @@
 from os import getenv
 import tweepy
 
-auth = tweepy.OAuthHandler("NMV0tKMlshhMYTzqwh44CjPzV",
-                           "QhLLsomQrqvfGiPb8pCemrKND7izBWLf2Vkuzf1xTjA1pzsFtu")
+auth = tweepy.OAuthHandler("cwKPyekTUT2Bl3WKdz3aN3Xyy",
+                           "QengYRcqgB3m2Or5SGaaDuP5Ph6cNvTTCdlVqlrtGWmaHfxF7U")
 twitter = tweepy.API(auth)
 
 

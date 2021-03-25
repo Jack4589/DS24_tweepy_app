@@ -1,8 +1,8 @@
 import tweepy
 
 # API KEYS
-API_KEY = "?"  # "Username"
-API_KEY_SECRET = "?"  # "Password"
+API_KEY = "cwKPyekTUT2Bl3WKdz3aN3Xyy"  # "Username"
+API_KEY_SECRET = "QengYRcqgB3m2Or5SGaaDuP5Ph6cNvTTCdlVqlrtGWmaHfxF7U"  # "Password"
 
 # Authentication and passing in keys
 auth = tweepy.OAuthHandler(API_KEY, API_KEY_SECRET)
